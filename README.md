@@ -11,6 +11,10 @@ The Fourier Drawing Machine is an interactive web application that allows users 
 - Implementing the Discrete Fourier Transform (DFT) algorithm
 - Designing intuitive user interfaces
 
+## Website Live
+
+Experience the Fourier Drawing Machine live at 🔴 [Fourier Drawing Board](https://krish-bhalala.github.io/Fourier-Drawing-Board/).
+
 ## Features
 
 - User-friendly drawing interface
